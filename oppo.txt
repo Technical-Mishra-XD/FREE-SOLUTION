@@ -1,0 +1,39 @@
+Oppo F31 Pro 5G (CPH2763),MT6835,Dimensity 6300
+Oppo Reno16 F 5G (CPH2859),MT6835,Dimensity 6300
+Oppo K10 5G China (PGJM10),MT6895,Dimensity 8000 Max
+Oppo Reno8 Pro (CPH2357),MT6895,Dimensity 8100 Max
+Oppo Reno9 Pro (PGX110),MT6895,Dimensity 8100 Max
+Oppo Reno10 Pro China (PHV110),MT6896,Dimensity 8200
+Oppo Reno11 China (PJH110),MT6896,Dimensity 8200
+Oppo Reno11 Pro (CPH2607),MT6896,Dimensity 8200 Ultra
+Oppo Pad 3 (OPD2406),MT6897,Dimensity 8300 / 8350
+Oppo Reno13 5G (CPH2689),MT6835,Dimensity 6300
+Oppo Reno13 China (PKM110),MT6835,Dimensity 6300
+Oppo Reno13 Pro 5G (CPH2697),MT6897,Dimensity 8300 / 8350
+Oppo Reno13 Pro 5G China (PKK110),MT6897,Dimensity 8300 / 8350
+Oppo Reno14 5G (CPH2737),MT6835,Dimensity 6300
+Oppo Reno14 5G China (PLA110),MT6835,Dimensity 6300
+OPPO A3 5G,MT6835,Dimensity 6300
+OPPO A3i 5G,MT6835,Dimensity 6300
+OPPO A3x 5G,MT6835,Dimensity 6300
+OPPO A3x (China),MT6835,Dimensity 6300
+OPPO A3 Pro 5G,MT6835,Dimensity 6300
+OPPO A5 5G,MT6835,Dimensity 6300
+OPPO A5 Energy,MT6835,Dimensity 6300
+OPPO A5 Pro 5G,MT6835,Dimensity 6300
+OPPO A5x 5G,MT6835,Dimensity 6300
+OPPO A6 5G,MT6835,Dimensity 6300
+OPPO A6 Pro 5G,MT6835,Dimensity 6300
+OPPO A6x 5G,MT6835,Dimensity 6300
+OPPO A6x (India),MT6835,Dimensity 6300
+OPPO A6k 5G,MT6835,Dimensity 6300
+OPPO A6s,MT6835,Dimensity 6300
+OPPO A6t 5G,MT6835,Dimensity 6300
+OPPO A80 5G,MT6835,Dimensity 6300
+OPPO F31 5G,MT6835,Dimensity 6300
+OPPO K12x 5G,MT6835,Dimensity 6300
+OPPO K13x 5G,MT6835,Dimensity 6300
+OPPO K14 5G,MT6835,Dimensity 6300
+OPPO K14x 5G,MT6835,Dimensity 6300
+OPPO Reno12 F 5G,MT6835,Dimensity 6300
+OPPO Reno12 FS 5G,MT6835,Dimensity 6300

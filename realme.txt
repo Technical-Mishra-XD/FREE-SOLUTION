@@ -1,0 +1,44 @@
+Model Name,Chipset,Processor
+Realme 13+ 5G (RMX5000/RMX5002),MT6878,Dimensity 7300
+Realme 14T 5G (RMX5078),MT6835,Dimensity 6300
+Realme 14 Pro 5G (RMX5056),MT6878,Dimensity 7300 Energy
+Realme 15 5G (RMX5105/RMX5106),MT6878,Dimensity 7300+
+Realme 15x 5G,MT6835,Dimensity 6300
+Realme 16x,MT6835,Dimensity 6300
+Realme 16 Pro 5G (RMX5120),MT6878,Dimensity 7300 Max
+Realme C73 5G,MT6835,Dimensity 6300
+Realme C75 5G,MT6835,Dimensity 6300
+Realme C83 5G (RMX5256),MT6835,Dimensity 6300
+Realme C100 5G (RMX5258),MT6835,Dimensity 6300
+Realme Narzo 70 Turbo 5G (RMX5003),MT6878,Dimensity 7300 Energy
+Realme Narzo 80 Lite 5G,MT6835,Dimensity 6300
+Realme Narzo 80 Pro 5G (RMX5033),MT6878,Dimensity 7400
+Realme Narzo 100 Lite 5G (RMX5261),MT6835,Dimensity 6300
+Realme P1 Speed 5G (RMX5004),MT6878,Dimensity 7300 Energy
+Realme P3 Lite 5G (RMX3943),MT6835,Dimensity 6300
+Realme P3 Ultra 5G (RMX5030/RMX5031),MT6897,Dimensity 8300/8350
+Realme P4 Lite (RMX5378),MT6835,Dimensity 6300
+Realme P4R 5G (RMX5266),MT6835,Dimensity 6300
+Realme P4 5G (RMX5110),MT6878,Dimensity 7400
+Realme P4 Power 5G (RMX5107),MT6878,Dimensity 7400 Ultra
+Realme V60,MT6835,Dimensity 6300
+Realme V60 Pro (RMX3953),MT6835,Dimensity 6300
+Realme GT Neo3 (RMX3560/RMX3561),MT6896,Dimensity 8100
+Realme GT Neo3 150W (RMX3562/RMX3563),MT6896,Dimensity 8100
+Realme Pad 2 (RMP2204),MT6789,Helio G99
+Realme Pad 3 Wi-Fi (RMP2502),MT6878,Dimensity 7300 Max
+Realme 11 5G (RMX3780),MT6835,Dimensity 6100+
+Realme 11x 5G (RMX3785),MT6835,Dimensity 6100+
+Realme V50 5G (RMX3783),MT6835,Dimensity 6100+
+Realme V50s 5G (RMX3783),MT6835,Dimensity 6100+
+Realme C67 5G (RMX3782),MT6835,Dimensity 6100+
+Realme Narzo 60x 5G (RMX3782),MT6835,Dimensity 6100+
+Realme 12 5G (RMX3999),MT6835,Dimensity 6100+
+Realme 12x China (RMX3993),MT6835,Dimensity 6100+
+Realme 13 5G (RMX3951),MT6835,Dimensity 6300
+Realme C63 5G,MT6835,Dimensity 6300
+Realme C65 5G,MT6835,Dimensity 6300
+Realme Narzo N65 5G (RMX3997),MT6835,Dimensity 6300
+Realme V60 5G,MT6835,Dimensity 6300
+Realme V60 Pro 5G,MT6835,Dimensity 6300
+Realme 14x 5G,MT6835,Dimensity 6300

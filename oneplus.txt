@@ -1,0 +1,6 @@
+Model Name,Chipset,Processor
+OnePlus 10R (CPH2411),MT6895/MT6896,Dimensity 8000/8100
+OnePlus Ace (PGKM10),MT6895/MT6896,Dimensity 8000/8100
+OnePlus Ace Racing (PGZ110),MT6895/MT6896,Dimensity 8000/8100
+OnePlus Nord CE5 (CPH2717/CPH2719),MT6897,Dimensity 8300/8300 Ultra/8350
+OnePlus Pad 3 (OPD2407/OPD2408),MT6897,Dimensity 8300/8300 Ultra/8350
