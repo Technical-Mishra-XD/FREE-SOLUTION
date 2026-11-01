@@ -42,3 +42,5 @@ Realme Narzo N65 5G (RMX3997),MT6835,Dimensity 6300
 Realme V60 5G,MT6835,Dimensity 6300
 Realme V60 Pro 5G,MT6835,Dimensity 6300
 Realme 14x 5G,MT6835,Dimensity 6300
+Realme 10 4G,MT6789,Helio G99
+Realme 11 4G,MT6789,Helio G99
